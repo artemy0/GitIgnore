@@ -1,2 +1,2 @@
 # GitIgnore
- version of gitignore files
+ gitignore file versions
